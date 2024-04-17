@@ -1,4 +1,4 @@
-<h1 aligh='center'>Exrcícios 01 Full Stack Jr /codifica</h1>
+<h1 align='center'>Exrcícios 01 Full Stack Jr /codifica</h1>
 Exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição do curso Full Stack Júnior da <a href="https://codificaedu.com.br" target="_blank">/codifica</a>
 
 ## 1 Conversor de temperatura
@@ -47,7 +47,7 @@ Ler 2 valores (considere que não serão lidos valores iguais) e escreve-los em 
 
 ## 9 Código de origem
 Ler o código de origem de um produto e imprima a região do mesmo, conforme a tabela abaixo:
-<p aligh="center">Código de origem
+<p align="center">Código de origem</p>
 
 |Código|Região|Código|Região|
 |:---:|---|:---:|---|
