@@ -47,17 +47,16 @@ Ler 2 valores (considere que não serão lidos valores iguais) e escreve-los em 
 
 ## 9 Código de origem
 Ler o código de origem de um produto e imprima a região do mesmo, conforme a tabela abaixo:
-<p align="center">Código de origem
-
+<p align="center">Código de origem</p>
+<p align="center">
 |Código|Região|Código|Região|
 |:---:|---|:---:|---|
 |1|Sul|5 ou 6|Nordeste|
 |2|Norte|7,8 ou 9|Sudeste|
 |3|Leste|10 até 20|Centro-Oeste|
 |4|Oeste|25 até 50|Nordeste|
-
-Fora dos intervalos - Produto inportado
 </p>
+<p align="center">Fora dos intervalos - Produto inportado</p>
 
 10. ler um número inteiro e escrevê-lo na tela 10 vezes.
 11. ler uma quantidade indeterminada de valores inteiros. Para
