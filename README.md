@@ -1,14 +1,14 @@
-<h1 aligh='center'>Exrcícios 01 - Full Stack Jr /codifica</h1>
+<h1 aligh='center'>Exrcícios 01 Full Stack Jr /codifica</h1>
 Exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição do curso Full Stack Júnior da <a href="https://codificaedu.com.br" target="_blank">/codifica</a>
 
-## 1 - Conversor de temperatura
+## 1 Conversor de temperatura
 Converter de Celsius para Fahrenheit
 
-## 2 - Eleitores de um município
+## 2 Eleitores de um município
 Ler o número de eleitores de um município, o número de votos brancos, nulos e válidos.
 Calcular e escrever o percentual que cada um representa em relação ao total de eleitores
 
-## 3 - Números inteiros
+## 3 Números inteiros
 Ler 4 números inteiros e realize as seguintes operações:
 - Some 25 ao primeiro inteiro;
 - Triplique o valor do segundo inteiro;
@@ -16,17 +16,17 @@ Ler 4 números inteiros e realize as seguintes operações:
 - Armazene no quarto inteiro a soma dos valores originais (os que o usuário digitou)
 dos primeiros três inteiros.
 
-## 4 - Notas dos alunos 1/2
+## 4 Notas dos alunos 1/2
 Ler as notas das 2 avaliações de um aluno no semestre, calcular e escrever a média semestral e a seguinte mensagem:
 **"PARABÉNS! Você foi aprovado"**
 somente se o aluno foi aprovado (considere 6.0 a nota mínima para aprovação).
 
-## 5 - Notas dos alunos 2/2
+## 5 Notas dos alunos 2/2
 Acrescente ao exercício acima a mensagem:
 **"Você foi REPROVADO! Estude mais"**
 caso a média calculada seja menor que 6,0
 
-## 6 - Lados de um triângulo
+## 6 Lados de um triângulo
 Ler 3 valores para os lados de um triângulo:
 **A, B e C**
 Verificar se os lados fornecidos formam realmente um triângulo.
@@ -38,26 +38,25 @@ Para verificar se os lados fornecidos formam triângulo:
 - Triângulo escaleno: possui todos os lados diferentes (A<>B e B <> C)
 - Triângulo eqüilátero: possui todos os lados iguais (A=B e B=C)
 
-## 7 - Maçãs
+## 7 Maçãs
 As maçãs custam **R$ 0,30** se forem compradas menos do que uma dúzia, e **R$ 0,25** se forem compradas pelo menos 12.
 Ler o número de maçãs compradas, calcule e escreva o valor total da compra.
 
-## 8 - Ordem crescente
+## 8 Ordem crescente
 Ler 2 valores (considere que não serão lidos valores iguais) e escreve-los em ordem crescente.
 
-## 9 -
+## 9 Código de origem
 Ler o código de origem de um produto e imprima a região do mesmo, conforme a tabela abaixo:
+<p alig="center">
 Código de origem
-
 |Código|Região|Código|Região|
 |:---:|---|:---:|---|
 |1|Sul|5 ou 6|Nordeste|
 |2|Norte|7,8 ou 9|Sudeste|
 |3|Leste|10 até 20|Centro-Oeste|
 |4|Oeste|25 até 50|Nordeste|
-
 Fora dos intervalos - Produto inportado
-
+</p>
 
 10. ler um número inteiro e escrevê-lo na tela 10 vezes.
 11. ler uma quantidade indeterminada de valores inteiros. Para
