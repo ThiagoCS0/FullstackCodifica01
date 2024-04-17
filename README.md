@@ -50,7 +50,7 @@ Ler o código de origem de um produto e imprima a região do mesmo, conforme a t
 Código de origem
 
 |Código|Região|Código|Região|
-|---|---|---|---|
+|:---:|---|:---:|---|
 |1|Sul|5 ou 6|Nordeste|
 |2|Norte|7,8 ou 9|Sudeste|
 |3|Leste|10 até 20|Centro-Oeste|
