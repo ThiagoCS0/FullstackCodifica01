@@ -48,11 +48,13 @@ Ler 2 valores (considere que não serão lidos valores iguais) e escreve-los em 
 ## 9 -
 Ler o código de origem de um produto e imprima a região do mesmo, conforme a tabela abaixo:
 Código de origem
+
 |---|---|---|---|
 |1|Sul|5 ou 6|Nordeste|
 |2|Norte|7,8 ou 9|Sudeste|
 |3|Leste|10 até 20|Centro-Oeste|
 |4|Oeste|25 até 50|Nordeste|
+
 Fora dos intervalos - Produto inportado
 
 
