@@ -1,7 +1,7 @@
 <h1 aligh='center'>Exrcícios 01 - Full Stack Jr /codifica</h1>
 Exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição do curso Full Stack Júnior da <a href="https://codificaedu.com.br" target="_blank">/codifica</a>
 
-## - [ ] 1 - Conversor de temperatura
+## 1 - Conversor de temperatura
 Converter de Celsius para Fahrenheit
 
 ## 2 - Eleitores de um município
