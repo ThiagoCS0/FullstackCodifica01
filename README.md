@@ -47,7 +47,7 @@ Ler 2 valores (considere que não serão lidos valores iguais) e escreve-los em 
 
 ## 9 Código de origem
 Ler o código de origem de um produto e imprima a região do mesmo, conforme a tabela abaixo:
-<p align="center">Código de origem</p>
+<p align="center">Código de origem
 
 |Código|Região|Código|Região|
 |:---:|---|:---:|---|
