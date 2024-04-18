@@ -72,9 +72,9 @@ Gere os números de 1000 a 1999 e escreva aqueles que, divididos por 11, dão re
 ## 13 Variáveis
 Ler 5 valores para uma variável N e, para cada um deles, calcule e mostre a tabuada de 1 até N.
 Mostre a tabuada na forma:
-1 x N = N
-2 x N = 2N
-3 x N = 3N
+- 1 x N = N
+- 2 x N = 2N
+- 3 x N = 3N
 Utilizar somente while do exercício 14 ao 16
 
 ## 14 Média aritmética
