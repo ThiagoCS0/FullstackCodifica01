@@ -58,23 +58,32 @@ Ler o código de origem de um produto e imprima a região do mesmo, conforme a t
 
 <p align="center">Fora dos intervalos - Produto inportado</p>
 
-10. ler um número inteiro e escrevê-lo na tela 10 vezes.
-11. ler uma quantidade indeterminada de valores inteiros. Para
-cada valor fornecido escrever uma mensagem que indica se cada valor fornecido é PAR
-ou ÍMPAR. O algoritmo será encerrado imediatamente após a leitura de um valor NULO ou
-NEGATIVO.
-12. gere os números de 1000 a 1999 e escreva aqueles que,
-divididos por 11, dão resto igual a 5.
-13. Ler 5 valores para uma variável N e, para cada um deles,
-calcule e mostre a tabuada de 1 até N. Mostre a tabuada na forma:
+## 10 Escrever 10x
+ler um número inteiro e escrevê-lo na tela 10 vezes.
+
+## 11 Par, Ímpar, Nulo ou Negativo?
+ler uma quantidade indeterminada de valores inteiros.
+Para cada valor fornecido escrever uma mensagem que indica se cada valor fornecido é PAR ou ÍMPAR.
+O algoritmo será encerrado imediatamente após a leitura de um valor NULO ou NEGATIVO.
+
+## 12 De 1.000 á 1.999 / 11 % = 5?
+Gere os números de 1000 a 1999 e escreva aqueles que, divididos por 11, dão resto igual a 5.
+
+## 13 Variáveis
+Ler 5 valores para uma variável N e, para cada um deles, calcule e mostre a tabuada de 1 até N.
+Mostre a tabuada na forma:
 1 x N = N
 2 x N = 2N
 3 x N = 3N
 Utilizar somente while do exercício 14 ao 16
-14. Fazer um algoritmo para receber números decimais até que o usuário digite 0 e fazer
-a média aritmética desses números.
-15. Fazer um algoritmos para receber um número decimal e o peso de cada número até
-que o usuário digite o número 0. Fazer a média ponderada desses números e pesos
-respectivos.
-16. imprimir os 50 primeiros número primos maior que 100.
+
+## 14 Média aritmética
+Receber números decimais até que o usuário digite 0 e fazer a média aritmética desses números.
+
+## 15 Pesos dos números
+Receber um número decimal e o peso de cada número até que o usuário digite o número 0.
+Fazer a média ponderada desses números e pesos respectivos.
+
+## 16 Números primos
+Imprimir os 50 primeiros número primos maior que 100.
 Obs.: Número primo é aquele divisível somente por 1 e ele mesmo
