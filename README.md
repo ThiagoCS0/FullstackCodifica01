@@ -75,6 +75,7 @@ Mostre a tabuada na forma:
 - 1 x N = N
 - 2 x N = 2N
 - 3 x N = 3N
+
 Utilizar somente while do exercício 14 ao 16
 
 ## 14 Média aritmética
