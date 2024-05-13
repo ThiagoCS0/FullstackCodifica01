@@ -1,4 +1,4 @@
-<h1 align='center'>Exrcícios 01 Full Stack Jr /codifica</h1>
+<h1 align='center'>Exercícios 01 Full Stack Jr /codifica</h1>
 Exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição do curso Full Stack Júnior da <a href="https://codificaedu.com.br" target="_blank">/codifica</a>
 
 ## 1 Conversor de temperatura
